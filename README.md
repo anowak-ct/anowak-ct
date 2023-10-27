@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in cutting edge microservices architecture
-- 🌱 I’m currently learning spring boot/cloud based microservices
+- 🌱 I’m currently sharpening my spring boot/cloud skills with an reactive kick
 - 💞️ I’m looking to collaborate on microservices, spring boot/cloud
 - 📫 How to reach me 
 
